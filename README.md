@@ -8,7 +8,7 @@ This project provides an API for user registration built using the Java Spring f
 - **Caching with Redis:** Utilize Redis caching to optimize the retrieval of frequently accessed user data, resulting in significantly improved response times.
 - **PostgreSQL Database:** Store user data persistently using the PostgreSQL database.
 - **Java Spring Framework:** Developed using the Java Spring framework for a robust and scalable architecture.
-- 
+  
 ## API Endpoints
 
 - `GET /users/{id}`: Retrieve details of a specific user.
